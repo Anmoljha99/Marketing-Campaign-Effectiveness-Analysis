@@ -1,5 +1,5 @@
 
--- Marketing Campaign Effectiveness Analysis
+-- Marketing Campaign Effectiveness Analysis.
 -- Dataset: marketing_campaigns_120_rows.xlsx
 -- Table Name: marketing_campaigns
 
