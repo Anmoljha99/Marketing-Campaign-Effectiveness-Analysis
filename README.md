@@ -139,8 +139,8 @@ This project reflects real-world Business Analyst work—understanding a busines
 
 🔗 Next Improvements .
 
-Power BI dashboard version
+Power BI dashboard version.
 
-Time-based trend analysis
+Time-based trend analysis.
 
-Campaign-level deep dive
+Campaign-level deep dive.
