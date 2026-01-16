@@ -10,11 +10,11 @@ The project is designed from a Business Analyst perspective, focusing on metrics
 
 The company runs marketing campaigns across Email, Social Media, and Paid Ads but lacks clarity on:
 
-Which channels deliver the best ROI
+Which channels deliver the best ROI ?
 
-Which campaign types perform better
+Which campaign types perform better ?
 
-Where marketing budget is being inefficiently spent
+Where marketing budget is being inefficiently spent ?
 
 This analysis helps answer these questions using data.
 
