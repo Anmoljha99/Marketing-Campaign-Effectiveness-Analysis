@@ -25,7 +25,7 @@ GROUP BY channel
 ORDER BY roi DESC;
 
 -- 3. Campaign Type Performance
---------------------------------------------------
+---------------------------------------------
 SELECT
     campaign_type,
     COUNT(campaign_id) AS campaign_count,
