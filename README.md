@@ -60,11 +60,11 @@ These metrics form the foundation of all insights and recommendations.
 
 🛠 Tools & Technologies
 
-Microsoft Excel – Data cleaning, calculated columns, pivot tables, dashboards
+Microsoft Excel – Data cleaning, calculated columns, pivot tables, dashboards .
 
-SQL – Aggregations, grouping, performance analysis
+SQL – Aggregations, grouping, performance analysis .
 
-GitHub – Project documentation and version control
+GitHub – Project documentation and version control .
 
 🔍 Analysis Approach
 
