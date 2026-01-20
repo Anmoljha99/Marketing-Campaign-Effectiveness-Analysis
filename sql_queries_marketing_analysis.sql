@@ -4,7 +4,7 @@
 -- Table Name: marketing_campaigns
 
 -- 1. Overall Marketing Performance
------------------------------------------------
+---------------------------------------------
 SELECT
     SUM(cost) AS total_cost,
     SUM(revenue) AS total_revenue,
